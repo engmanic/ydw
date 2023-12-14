@@ -8,3 +8,5 @@ print(index)
 index=python.index('n', index+1)
 print(index)
 print(index)
+#신규추가 문장
+print('신규추가 문장')
