@@ -2,7 +2,7 @@
 # b='pilot'
 # print(a+b)
 
-jumin='691220-1674412'
+jumin='691220-1604412'
 
 sex= jumin[7]
 year=jumin[0:2]
